@@ -1,0 +1,10 @@
+[
+  {
+    "package": "StratifiedSampling",
+    "oncran": true
+  },
+  {
+    "package": "WaveSampling",
+    "oncran": true
+  }
+]
